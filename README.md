@@ -21,4 +21,4 @@ broke along the way.
 - 📌 [kea-ha-lab](https://github.com/kulish-net/kea-ha-lab) — ISC Kea DHCP in hot-standby HA with a
   PostgreSQL lease backend, fully containerised
 
-**Contact** — [LinkedIn](https://linkedin.com/in/) · monemindustries@gmail.com
+**Contact** — monemindustries@gmail.com
