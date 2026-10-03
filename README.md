@@ -1,4 +1,4 @@
-## Maxim Kulish — Network Engineer
+## Maksim Kulish — Network Engineer
 
 Network engineer focused on enterprise LAN/WLAN, network access control and
 infrastructure automation. Currently working on large-scale campus networks in
